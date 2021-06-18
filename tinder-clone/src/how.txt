@@ -1,0 +1,30 @@
+
+npx create-react-app app_name 
+cd app_name 
+npm start 
+
+// npm -> to install packages 
+// npx -> to execute packages 
+
+for importing something in react 
+
+import name from 'filename'
+and in the end of the file add export default object to export 
+
+
+to add backend 
+
+new folder 
+change diectory 
+npm init // to init a server 
+
+in package.json file 
+
+to import all module use 
+"type": "module"
+
+and after debug in the same folder add 
+
+
+"start": "node server.js"
+make server.js 
